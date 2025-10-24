@@ -1,0 +1,21 @@
+{
+  "name": "بل مینجمنٹ سسٹم",
+  "short_name": "بل سسٹم",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f46e5",
+  "description": "بجلی کے بلوں کو آسانی سے تقسیم اور منظم کریں۔",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
