@@ -1,21 +1,24 @@
 {
   "name": "بل مینجمنٹ سسٹم",
   "short_name": "بل سسٹم",
+  "description": "بجلی کے بلوں کا حساب اور انتظام کرنے کے لیے ایک آسان ایپ۔",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f1f5f9",
   "theme_color": "#4f46e5",
-  "description": "بجلی کے بلوں کو آسانی سے تقسیم اور منظم کریں۔",
+  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon-192x192.png",
+      "src": "icons/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "icon-512x512.png",
+      "src": "icons/icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
